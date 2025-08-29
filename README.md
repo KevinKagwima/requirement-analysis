@@ -1,9 +1,7 @@
-# requirement-analysis
-
 # What is Requirement Analysis?
 Requirement Analysis is the systematic process of identifying, documenting, validating, and managing the needs and expectations of stakeholders for a software system. It acts as the bridge between business objectives and technical implementation, ensuring the final product aligns with user needs and organizational goals.
 
-<h4>Importance of Requirement Analysis</h4>
+<h3>Importance of Requirement Analysis</h3>
 1.Foundation for Success. Poorly analyzed requirements cause ~70% of project failures (standish Group). Clear requirements reduce rework costs by up to 10x (IBM).
 2. Stakeholder Alignment. Resolves conflicts early (e.g., balancing user needs vs. technical feasibility).
 3. Scope Control. Prevents scope creep by defining boundaries (e.g., "The system will support 10,000 concurrent users, not 100,000").
