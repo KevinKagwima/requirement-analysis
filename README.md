@@ -29,3 +29,7 @@ Requirement Analysis is the systematic process of identifying, documenting, vali
 
 # Use Case Diagrams
 <img src="./alx-booking-uc.png">
+
+# Acceptance Criteria
+<p>Acceptance criteria (AC) are explicit conditions that a product, feature, or user story must satisfy to be accepted by stakeholders</p>
+<p>For the checkout feature, an acceptance criteria would be, a user is able to pay for the house they've selected and be able to view the booking details.</p>
